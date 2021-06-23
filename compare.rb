@@ -6,3 +6,5 @@ end
 if total>=150
   puts "合計は１５０以上です"
 end
+
+
