@@ -1,1 +1,1 @@
-puts "WEBCAMAPでプログラミング学習".methods
+puts "WEBCAMAPでプログラミング学習".metods
